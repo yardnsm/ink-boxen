@@ -24,7 +24,8 @@
     "test": "jest",
     "posttest": "npm run lint",
     "test:watch": "jest --watch",
-    "clean": "rm -rf ./dist"
+    "clean": "rm -rf ./dist",
+    "prepublish": "npm test && npm run build"
   },
   "dependencies": {
     "boxen": "^1.3.0",
