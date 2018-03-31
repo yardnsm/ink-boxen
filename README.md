@@ -1,6 +1,6 @@
 # ink-boxen
 
-> A [boxen](https://github.com/sindresorhus/boxen/) component for [ink](https://github.com/vadimdemedes/ink/)
+> A [boxen](https://github.com/sindresorhus/boxen/) component for [Ink](https://github.com/vadimdemedes/ink/)
 
 [![Build Status](https://travis-ci.org/yardnsm/ink-boxen.svg?branch=master)](https://travis-ci.org/yardnsm/ink-boxen)
 
@@ -28,7 +28,7 @@ render((
 ));
 ```
 
-<img src="media/screenshot.png" height="250">
+<img src="media/screenshot.png" width="550">
 
 
 ## API
