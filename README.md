@@ -1,5 +1,7 @@
 # ink-boxen
 
+## This project is deprecated, please use [`ink-box`](https://github.com/sindresorhus/ink-box) instead.
+
 > A [boxen](https://github.com/sindresorhus/boxen/) component for [Ink](https://github.com/vadimdemedes/ink/)
 
 [![Build Status](https://travis-ci.org/yardnsm/ink-boxen.svg?branch=master)](https://travis-ci.org/yardnsm/ink-boxen)
